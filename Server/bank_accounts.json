@@ -1,0 +1,66 @@
+{
+  "accounts": {
+    "2129336134": {
+      "accountHolderName": "Esther",
+      "accountNumber": "2129336134",
+      "balance": 519711.0100097656
+    },
+    "2346254282": {
+      "accountHolderName": "esther",
+      "accountNumber": "2346254282",
+      "balance": 0
+    },
+    "3407820006": {
+      "accountHolderName": "Joy",
+      "accountNumber": "3407820006",
+      "balance": 599299.99
+    },
+    "0106765200": {
+      "accountHolderName": "Obiasogu Esther",
+      "accountNumber": "0106765200",
+      "balance": 0
+    },
+    "5428271801": {
+      "accountHolderName": "Esther",
+      "accountNumber": "5428271801",
+      "balance": 0
+    },
+    "8607301673": {
+      "accountHolderName": "Esther",
+      "accountNumber": "8607301673",
+      "balance": 0
+    },
+    "5420976024": {
+      "accountHolderName": "esther",
+      "accountNumber": "5420976024",
+      "balance": 0
+    },
+    "0598376404": {
+      "accountHolderName": "esther",
+      "accountNumber": "0598376404",
+      "balance": 0
+    },
+    "7075671859": {
+      "accountHolderName": "Esther",
+      "accountNumber": "7075671859",
+      "balance": 310.01
+    },
+    "7279787620": {
+      "accountHolderName": "Joy",
+      "accountNumber": "7279787620",
+      "balance": 600.99
+    }
+  },
+  "usedNumbers": [
+    "0106765200",
+    "5428271801",
+    "8607301673",
+    "5420976024",
+    "0598376404",
+    "2346254282",
+    "7075671859",
+    "7279787620",
+    "2129336134",
+    "3407820006"
+  ]
+}
